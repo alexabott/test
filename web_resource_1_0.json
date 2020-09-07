@@ -1,4 +1,11 @@
 {
+    
+    "update":{"version":"4.0.10",
+              "update_info":{1 : "Texture Painting",
+                             2 : "Edge stressed"                  
+                            }
+             }
+    
     "top_site_list":{"Except example":"https://duckduckgo.com/?q=python+request+exception&atb=v233-1&ia=web",
                      "Egitto Piramidi" : "https://www.tpi.it/esteri/scoperta-struttura-piramide-cheope-2017110269816/"}
     
