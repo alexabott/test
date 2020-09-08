@@ -1,4 +1,9 @@
-{
+{   
+    "news": {"New Site": "https://www.google.com/"},
+    "social": {"Youtube":"https://www.youtube.com/",
+               "Twitter":"https://twitter.com/home",
+               "Instagram":"https://www.instagram.com/"}
+    ,
     
     "update":{"version":"4.0.10",
               "update_info":{"1" : "Texture Painting",
@@ -6,8 +11,7 @@
                             }
              }
     ,    
-    "top_site_list":{"Except example":"https://duckduckgo.com/?q=python+request+exception&atb=v233-1&ia=web",
-                     "Egitto Piramidi" : "https://www.tpi.it/esteri/scoperta-struttura-piramide-cheope-2017110269816/"}
+    "producer":{"Except example":"https://duckduckgo.com/?q=python+request+exception&atb=v233-1&ia=web",
+                "Egitto Piramidi" : "https://www.tpi.it/esteri/scoperta-struttura-piramide-cheope-2017110269816/"}
     
-
 }
